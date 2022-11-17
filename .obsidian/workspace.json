@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "e5dba4cea8438d80",
+    "type": "split",
+    "children": [
+      {
+        "id": "f20bb098e8edd2cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dea151afc4bc3ec6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TerriaJS/1. TeriaJS - Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fab04b350f65267",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TerriaJS/3. Customizing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d4f71fab5e624e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TerriaJS/3. Customizing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfc5e94ad1bafcaa",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "stars.png"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88df0df60f0e0e33",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cffc8022b4c4765",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f75008ef6abbc02a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "55a947b10f634241",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "933c751c65dbc9aa",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8322f415b61e8400",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d203b2bf5b2bdad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6156723ec57ec4e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TerriaJS/3. Customizing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a2a738030204229",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TerriaJS/3. Customizing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c8dba6aaa6873ac1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f1df0f1e9c5ef0bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TerriaJS/3. Customizing.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7d4f71fab5e624e8",
+  "lastOpenFiles": [
+    "TerriaJS/2. Getting started.md",
+    "TerriaJS/1. TeriaJS - Overview.md",
+    "default_ui.png",
+    "TerriaJS/4. Deployment.md",
+    "TerriaJS/3. Customizing.md",
+    "README.md",
+    "releases.png",
+    "contributers.png",
+    "stars.png",
+    "2022-11-17.md"
+  ]
+}
